@@ -1,0 +1,19 @@
+# Java class files
+*.class
+
+# Backup files
+*.orig
+
+# Maven target folder
+target/*
+
+# IDE configuration
+nbproject/*
+.idea/*
+.eclipse/*
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
